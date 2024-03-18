@@ -3,7 +3,9 @@
   <img src="JulioGarcía.png" alt="Banner_JGO">
 </p>
 
-## <center>Buenas, Soy Julio 👋</center>
+
+<p align="center">
+Buenas, Soy Julio 👋</p>
 
 ***
 Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
