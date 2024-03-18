@@ -1,6 +1,8 @@
+<!-- ![Banner_JGO](JulioGarcía.png)-->
 <p align="center">
-![Banner_JGO](JulioGarcía.png)
+  <img src="JulioGarcía.png" alt="Banner_JGO">
 </p>
+
 
 ## Buenas, Soy Julio 👋
 ***
