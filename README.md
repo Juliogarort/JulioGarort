@@ -1,4 +1,6 @@
+<p align="center">
 ![Banner_JGO](JulioGarcía.png)
+</p>
 
 ## Buenas, Soy Julio 👋
 ***
