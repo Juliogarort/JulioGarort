@@ -1,8 +1,10 @@
+![Banner_JGO](JulioGarcía.png)
 
 ### Buenas, Soy Julio 👋
-	---
- Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
- me encanata el mundo de la informatica y sobre todo la estructuración y diseño de páginas web.
+
+
+Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
+me encanata el mundo de la informatica y sobre todo la estructuración y diseño de páginas web.
 <!--
 **Juliogarort/JulioGarort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
