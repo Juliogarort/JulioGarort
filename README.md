@@ -4,9 +4,8 @@
 </p>
 
 
-##<p align="center">
-Buenas, Soy Julio 👋
-</p>
+<h2 align="center">Buenas, Soy Julio 👋</h2>
+
 
 ***
 Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
