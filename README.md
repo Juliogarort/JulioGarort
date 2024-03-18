@@ -3,8 +3,8 @@
   <img src="JulioGarcía.png" alt="Banner_JGO">
 </p>
 
+## <center>Buenas, Soy Julio 👋</center>
 
-## Buenas, Soy Julio 👋
 ***
 Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
 me encanata el mundo de la informatica y sobre todo la estructuración y diseño de páginas web.
