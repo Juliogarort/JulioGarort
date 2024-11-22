@@ -5,7 +5,7 @@
 
 <h2 align="center">Buenas, Soy Julio 🖖🏼</h2>
 
-Actualmente soy estudiante de primer año de Desarrollo de Aplicaciones WEB (DAW)
+Actualmente soy estudiante de segundo año de Desarrollo de Aplicaciones WEB (DAW)
 me encanata el mundo de la informatica y sobre todo la estructuración y diseño de páginas web.
 
 ### Conocimientos en:
@@ -14,6 +14,11 @@ me encanata el mundo de la informatica y sobre todo la estructuración y diseño
 - CSS
 - MySQL
 - Bootstrap
+- JavaScript
+- Json
+- XML
+- PHP
+
 
 <!--
 **Juliogarort/JulioGarort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
