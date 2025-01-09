@@ -1,35 +1,62 @@
+<!-- Banner -->
 <p align="center">
-  <img src="julio-garcia-banner.png" alt="Julio García - Desarrollador Fullstack">
+  <img src="JulioGarcía.png" alt="Banner_JGO" style="max-width: 100%; height: auto; border-radius: 8px;">
 </p>
 
-<h1 align="center">Julio García</h1>
-<h2 align="center">Desarrollador Fullstack | Diseñador Web</h2>
+<h1 align="center">¡Hola! Soy Julio García 🖖🏼</h1>
+<h3 align="center" style="color: #555;">Desarrollador Fullstack en formación | Apasionado por el diseño y desarrollo web</h3>
 
-<p align="center">
-  Construyendo soluciones digitales creativas y eficientes.
+---
+
+## 👨‍💻 Sobre mí
+Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), apasionado por la informática y el diseño de páginas web. Mi objetivo es crear aplicaciones eficientes, atractivas y fáciles de usar, mientras supero nuevos retos tecnológicos.
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+### Lenguajes de Programación
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-8A2BE2?style=flat&logo=xml&logoColor=white" alt="XML">
 </p>
 
-### ️ **Tecnologías**
-
-#### **Lenguajes**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30">
-  <img src="https://raw.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30">
+### Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-#### **Frameworks y Herramientas**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30">
+### Frameworks y Herramientas
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
 </p>
 
-**[... continúa con otras secciones como "Sobre mí", "Proyectos" y "Contacto"]**
+---
+
+## 🌍 Idiomas
+- **Español:** Nativo  
+- **Inglés:** Nivel B2 (Certificación Cambridge)
+
+---
+
+## 📫 Contacto
+- **Correo Electrónico:** [julio.garort16@gmail.com](mailto:julio.garort16@gmail.com)  
+- **GitHub:** [Juliogarort](https://github.com/Juliogarort)  
+- **LinkedIn:** [Julio García Ortiz](https://www.linkedin.com/in/julio-garc%C3%ADa-ortiz-742012237/)  
+
+---
+
+<p align="center" style="font-size: 1.2rem; color: #333;">
+  🚀 Siempre explorando nuevas tecnologías y aprendiendo para mejorar 🌟
+</p>
