@@ -12,33 +12,33 @@
 Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasión por la informática y el diseño de páginas web. Mi enfoque está en crear aplicaciones eficientes y atractivas, siempre buscando superar nuevos desafíos tecnológicos.
 
 ---
-## 🛠️ **Habilidades Técnicas**
 
-### **Lenguajes de Programación**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/1280px-Java_programming_language_logo.svg.png" alt="Java" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo_256.png" alt="HTML" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/CSS3_logo.svg" alt="CSS" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/JSON_logo.svg" alt="JSON" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Xml_logo.svg" alt="XML" width="100">
+### 🛠️ **Habilidades Técnicas**
+#### **Lenguajes de Programación**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
 </p>
 
-### **Bases de Datos**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/MySQL_logo.svg" alt="MySQL" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/MongoDB_logo.svg" alt="MongoDB" width="100">
+#### **Bases de Datos**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### **Frameworks y Herramientas**
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bootstrap_logo.svg" alt="Bootstrap" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Laravel_logo.svg" alt="Laravel" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker_logo.svg" alt="Docker" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_logo.svg" alt="Git" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Expressjs.png" alt="Express.js" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Figma-logo.svg" alt="Figma" width="100">
+#### **Frameworks y Herramientas**
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
 ---
