@@ -12,95 +12,33 @@
 Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasión por la informática y el diseño de páginas web. Mi enfoque está en crear aplicaciones eficientes y atractivas, siempre buscando superar nuevos desafíos tecnológicos.
 
 ---
-## 🛠️ Habilidades Técnicas
+### 🛠️ **Habilidades Técnicas**
+#### **Lenguajes de Programación**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+</p>
 
-### Lenguajes de Programación
-<div style="display: flex; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-    <p style="margin: 5px 0 0;">JavaScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50">
-    <p style="margin: 5px 0 0;">TypeScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
-    <p style="margin: 5px 0 0;">Python</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
-    <p style="margin: 5px 0 0;">Java</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50">
-    <p style="margin: 5px 0 0;">PHP</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
-    <p style="margin: 5px 0 0;">HTML5</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
-    <p style="margin: 5px 0 0;">CSS</p>
-  </div>
-</div>
+#### **Bases de Datos**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
----
-
-### Bases de Datos
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
-    <div>MySQL</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
-    <div>MongoDB</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
-    <div>PostgreSQL</div>
-  </div>
-</div>
-
----
-
-### Frameworks y Herramientas
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
-    <div>React</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
-    <div>Node.js</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40">
-    <div>Express.js</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40">
-    <div>Vue.js</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
-    <div>Git</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
-    <div>Docker</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
-    <div>Bootstrap</div>
-  </div>
-  <div style="text-align: center; width: 80px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
-    <div>Figma</div>
-  </div>
-</div>
+#### **Frameworks y Herramientas**
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
 
 ---
 
