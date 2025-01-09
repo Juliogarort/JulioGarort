@@ -16,35 +16,36 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 ### Lenguajes de Programación
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
     <div>JavaScript</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
     <div>TypeScript</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
     <div>Python</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
     <div>Java</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
     <div>PHP</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
     <div>HTML5</div>
   </div>
-  <div style="text-align: center; width: 80px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
     <div>CSS3</div>
   </div>
 </div>
+
 
 ---
 
