@@ -42,12 +42,6 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 ---
 
-
-
-
-
----
-
 ### 🌍 **Idiomas**
 - Español: Nativo  
 - Inglés: Nivel B2 (Cambridge)
