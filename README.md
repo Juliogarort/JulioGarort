@@ -16,29 +16,29 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 ### **Lenguajes de Programación**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" alt="Java" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" alt="HTML" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" alt="CSS" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" alt="PHP" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/json.svg" alt="JSON" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/xml.svg" alt="XML" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_programming_language_logo.svg/1280px-Java_programming_language_logo.svg.png" alt="Java" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_Logo_256.png" alt="HTML" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/CSS3_logo.svg" alt="CSS" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/JSON_logo.svg" alt="JSON" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Xml_logo.svg" alt="XML" width="100">
 </p>
 
 ### **Bases de Datos**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" alt="MySQL" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/MySQL_logo.svg" alt="MySQL" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/MongoDB_logo.svg" alt="MongoDB" width="100">
 </p>
 
 ### **Frameworks y Herramientas**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bootstrap.svg" alt="Bootstrap" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/laravel.svg" alt="Laravel" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/docker.svg" alt="Docker" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" alt="Git" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express.js" width="100">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/figma.svg" alt="Figma" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Bootstrap_logo.svg" alt="Bootstrap" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Laravel_logo.svg" alt="Laravel" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker_logo.svg" alt="Docker" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_logo.svg" alt="Git" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Expressjs.png" alt="Express.js" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Figma-logo.svg" alt="Figma" width="100">
 </p>
 
 ---
