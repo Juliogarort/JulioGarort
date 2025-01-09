@@ -15,7 +15,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes de Programación
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <div style="text-align: center; width: 80px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
     <div>JavaScript</div>
