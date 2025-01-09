@@ -15,37 +15,36 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes de Programación
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: flex-start; align-items: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-    <div>JavaScript</div>
+    <span style="margin-top: 5px;">JavaScript</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
-    <div>TypeScript</div>
+    <span style="margin-top: 5px;">TypeScript</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-    <div>Python</div>
+    <span style="margin-top: 5px;">Python</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-    <div>Java</div>
+    <span style="margin-top: 5px;">Java</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-    <div>PHP</div>
+    <span style="margin-top: 5px;">PHP</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">
-    <div>HTML5</div>
+    <span style="margin-top: 5px;">HTML5</span>
   </div>
-  <div style="text-align: center;">
+  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">
-    <div>CSS3</div>
+    <span style="margin-top: 5px;">CSS3</span>
   </div>
 </div>
-
 
 ---
 
