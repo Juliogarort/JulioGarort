@@ -52,7 +52,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ---
 
 ### Bases de Datos
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
@@ -72,7 +72,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ---
 
 ### Frameworks y Herramientas
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
@@ -108,6 +108,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
     </td>
   </tr>
 </table>
+
 
 
 ---
