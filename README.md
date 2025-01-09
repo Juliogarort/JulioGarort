@@ -16,7 +16,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes de Programación
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
@@ -48,6 +48,67 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
     </td>
   </tr>
 </table>
+
+---
+
+### Bases de Datos
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40">
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+---
+
+### Frameworks y Herramientas
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+      <br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40">
+      <br>Express.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40">
+      <br>Vue.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
+      <br>Figma
+    </td>
+  </tr>
+</table>
+
 
 ---
 
