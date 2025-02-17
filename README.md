@@ -56,8 +56,6 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 
 ---
-<img src="https://raw.githubusercontent.com/Juliogarort/Juliogarort/output/snake.svg" alt="Snake animation" />
----
 
 ### 🌍 **Idiomas**
 - Español: Nativo  
@@ -68,19 +66,8 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 ### 📫 **Contacto**
 - **Correo Electrónico:** julio.garort16@gmail.com  
 - **GitHub:** [Juliogarort](https://github.com/Juliogarort)  
-- **LinkedIn:** [Julio García Ortiz](https://www.linkedin.com/in/julio-garc%C3%ADa-ortiz-742012237/)  
-
-
----
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Juliogarort">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Juliogarort&count=5&unique=true" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=julio.garcia-7)
-  </a>
-</div>
-
+- **LinkedIn:** [Julio García Ortiz](https://www.linkedin.com/in/julio-garc%C3%ADa-ortiz-742012237/)
+- 
 ---
 
 <p align="center">
