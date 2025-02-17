@@ -54,7 +54,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
   </tr>
 </table>
 
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=juliogarort)
 ---
 
 ### 🌍 **Idiomas**
