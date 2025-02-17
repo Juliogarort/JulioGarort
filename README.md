@@ -77,6 +77,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 <div align="center">
   <a href="https://open.spotify.com/user/Juliogarort">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Juliogarort&count=5&unique=true" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=julio.garcia-7)
   </a>
 </div>
 
