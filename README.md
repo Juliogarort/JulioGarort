@@ -42,7 +42,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 </p>
 
 ---
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <table align="center">
   <tr>
     <td>
