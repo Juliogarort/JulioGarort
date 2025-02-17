@@ -43,8 +43,16 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Juliogarort&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliogarort&theme=transparent&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliogarort&theme=transparent&hide_border=true" alt="Streak Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliogarort&theme=transparent&hide_border=true&layout=compact" alt="Top Langs">
+    </td>
+  </tr>
+</table>
 
 ---
 
