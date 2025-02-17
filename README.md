@@ -54,8 +54,6 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
   </tr>
 </table>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=juliogarort)---
-
 ### 🌍 **Idiomas**
 - Español: Nativo  
 - Inglés: Nivel B2 (Cambridge)
