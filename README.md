@@ -43,7 +43,7 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
 
 ---
 # 📊 GitHub Stats:
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juliogarort&theme=transparent&hide_border=true" alt="Streak Stats">
