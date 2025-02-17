@@ -54,6 +54,9 @@ Soy estudiante de segundo año de Desarrollo de Aplicaciones Web (DAW), con pasi
   </tr>
 </table>
 
+
+---
+<img src="https://raw.githubusercontent.com/Juliogarort/Juliogarort/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 🌍 **Idiomas**
